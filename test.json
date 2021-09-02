@@ -1,0 +1,24 @@
+{
+    "BASIC HATCH 2 ": {
+        "screenshot": "screenshot_0.png",
+        "Vokarium": 10,
+        "Ajatite": 20,
+        "Bastium": 30,
+        "Nhurgite": 40,
+        "red": 1,
+        "yellow": 1,
+        "purple": 1,
+        "blue": 1
+    },
+    "BASIC HATCH 1": {
+        "screenshot": "screenshot_0.png",
+        "Exorium": 10,
+        "Valkite": 20,
+        "Charodium": 30,
+        "Ice": 40,
+        "red": 2,
+        "yellow": 2,
+        "purple": 2,
+        "blue": 2
+    }
+}

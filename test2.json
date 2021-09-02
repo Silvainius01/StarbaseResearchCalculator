@@ -1,0 +1,833 @@
+{
+    "BestItemsRaw": {
+        "red": {
+            "name": "Tripod Autocannon",
+            "craftTime": 30.896000000000004,
+            "materialCost": {
+                "bastium": 463.3,
+                "charodium": 2162.9,
+                "vokarium": 463.4
+            },
+            "researchValue": {
+                "red": 31,
+                "blue": 294
+            },
+            "researchRates": {
+                "red": {
+                    "timeRate": 1.003366131538063,
+                    "totalRates": {
+                        "rawRate": 99.66451612903226,
+                        "materialRate": 99.66451612903226,
+                        "manualRate": 99.66451612903226,
+                        "creditRate": -1.0576762246117086
+                    },
+                    "materialRates": {
+                        "bastium": {
+                            "rawRate": 14.94516129032258,
+                            "materialRate": 14.94516129032258,
+                            "manualRate": 14.94516129032258,
+                            "creditRate": -0.008648820191158901
+                        },
+                        "charodium": {
+                            "rawRate": 69.7709677419355,
+                            "materialRate": 69.7709677419355,
+                            "manualRate": 69.7709677419355,
+                            "creditRate": -0.0403767174432497
+                        },
+                        "vokarium": {
+                            "rawRate": 14.948387096774193,
+                            "materialRate": 14.948387096774193,
+                            "manualRate": 14.948387096774193,
+                            "creditRate": -0.00865068697729988
+                        }
+                    }
+                },
+                "blue": {
+                    "timeRate": 9.515794924909372,
+                    "totalRates": {
+                        "rawRate": 10.508843537414965,
+                        "materialRate": 10.508843537414965,
+                        "manualRate": 10.508843537414965,
+                        "creditRate": -1.0060815066767448
+                    },
+                    "materialRates": {
+                        "bastium": {
+                            "rawRate": 1.5758503401360544,
+                            "materialRate": 1.5758503401360544,
+                            "manualRate": 1.5758503401360544,
+                            "creditRate": -0.0009119504283194758
+                        },
+                        "charodium": {
+                            "rawRate": 7.356802721088435,
+                            "materialRate": 7.356802721088435,
+                            "manualRate": 7.356802721088435,
+                            "creditRate": -0.0042574089821113634
+                        },
+                        "vokarium": {
+                            "rawRate": 1.5761904761904761,
+                            "materialRate": 1.5761904761904761,
+                            "manualRate": 1.5761904761904761,
+                            "creditRate": -0.0009121472663139329
+                        }
+                    }
+                }
+            }
+        },
+        "blue": {
+            "name": "Tripod Autocannon",
+            "craftTime": 30.896000000000004,
+            "materialCost": {
+                "bastium": 463.3,
+                "charodium": 2162.9,
+                "vokarium": 463.4
+            },
+            "researchValue": {
+                "red": 31,
+                "blue": 294
+            },
+            "researchRates": {
+                "red": {
+                    "timeRate": 1.003366131538063,
+                    "totalRates": {
+                        "rawRate": 99.66451612903226,
+                        "materialRate": 99.66451612903226,
+                        "manualRate": 99.66451612903226,
+                        "creditRate": -1.0576762246117086
+                    },
+                    "materialRates": {
+                        "bastium": {
+                            "rawRate": 14.94516129032258,
+                            "materialRate": 14.94516129032258,
+                            "manualRate": 14.94516129032258,
+                            "creditRate": -0.008648820191158901
+                        },
+                        "charodium": {
+                            "rawRate": 69.7709677419355,
+                            "materialRate": 69.7709677419355,
+                            "manualRate": 69.7709677419355,
+                            "creditRate": -0.0403767174432497
+                        },
+                        "vokarium": {
+                            "rawRate": 14.948387096774193,
+                            "materialRate": 14.948387096774193,
+                            "manualRate": 14.948387096774193,
+                            "creditRate": -0.00865068697729988
+                        }
+                    }
+                },
+                "blue": {
+                    "timeRate": 9.515794924909372,
+                    "totalRates": {
+                        "rawRate": 10.508843537414965,
+                        "materialRate": 10.508843537414965,
+                        "manualRate": 10.508843537414965,
+                        "creditRate": -1.0060815066767448
+                    },
+                    "materialRates": {
+                        "bastium": {
+                            "rawRate": 1.5758503401360544,
+                            "materialRate": 1.5758503401360544,
+                            "manualRate": 1.5758503401360544,
+                            "creditRate": -0.0009119504283194758
+                        },
+                        "charodium": {
+                            "rawRate": 7.356802721088435,
+                            "materialRate": 7.356802721088435,
+                            "manualRate": 7.356802721088435,
+                            "creditRate": -0.0042574089821113634
+                        },
+                        "vokarium": {
+                            "rawRate": 1.5761904761904761,
+                            "materialRate": 1.5761904761904761,
+                            "manualRate": 1.5761904761904761,
+                            "creditRate": -0.0009121472663139329
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "BestItemsMaterial": {
+        "red": {
+            "name": "Tripod Autocannon",
+            "craftTime": 30.896000000000004,
+            "materialCost": {
+                "bastium": 463.3,
+                "charodium": 2162.9,
+                "vokarium": 463.4
+            },
+            "researchValue": {
+                "red": 31,
+                "blue": 294
+            },
+            "researchRates": {
+                "red": {
+                    "timeRate": 1.003366131538063,
+                    "totalRates": {
+                        "rawRate": 99.66451612903226,
+                        "materialRate": 99.66451612903226,
+                        "manualRate": 99.66451612903226,
+                        "creditRate": -1.0576762246117086
+                    },
+                    "materialRates": {
+                        "bastium": {
+                            "rawRate": 14.94516129032258,
+                            "materialRate": 14.94516129032258,
+                            "manualRate": 14.94516129032258,
+                            "creditRate": -0.008648820191158901
+                        },
+                        "charodium": {
+                            "rawRate": 69.7709677419355,
+                            "materialRate": 69.7709677419355,
+                            "manualRate": 69.7709677419355,
+                            "creditRate": -0.0403767174432497
+                        },
+                        "vokarium": {
+                            "rawRate": 14.948387096774193,
+                            "materialRate": 14.948387096774193,
+                            "manualRate": 14.948387096774193,
+                            "creditRate": -0.00865068697729988
+                        }
+                    }
+                },
+                "blue": {
+                    "timeRate": 9.515794924909372,
+                    "totalRates": {
+                        "rawRate": 10.508843537414965,
+                        "materialRate": 10.508843537414965,
+                        "manualRate": 10.508843537414965,
+                        "creditRate": -1.0060815066767448
+                    },
+                    "materialRates": {
+                        "bastium": {
+                            "rawRate": 1.5758503401360544,
+                            "materialRate": 1.5758503401360544,
+                            "manualRate": 1.5758503401360544,
+                            "creditRate": -0.0009119504283194758
+                        },
+                        "charodium": {
+                            "rawRate": 7.356802721088435,
+                            "materialRate": 7.356802721088435,
+                            "manualRate": 7.356802721088435,
+                            "creditRate": -0.0042574089821113634
+                        },
+                        "vokarium": {
+                            "rawRate": 1.5761904761904761,
+                            "materialRate": 1.5761904761904761,
+                            "manualRate": 1.5761904761904761,
+                            "creditRate": -0.0009121472663139329
+                        }
+                    }
+                }
+            }
+        },
+        "blue": {
+            "name": "Tripod Autocannon",
+            "craftTime": 30.896000000000004,
+            "materialCost": {
+                "bastium": 463.3,
+                "charodium": 2162.9,
+                "vokarium": 463.4
+            },
+            "researchValue": {
+                "red": 31,
+                "blue": 294
+            },
+            "researchRates": {
+                "red": {
+                    "timeRate": 1.003366131538063,
+                    "totalRates": {
+                        "rawRate": 99.66451612903226,
+                        "materialRate": 99.66451612903226,
+                        "manualRate": 99.66451612903226,
+                        "creditRate": -1.0576762246117086
+                    },
+                    "materialRates": {
+                        "bastium": {
+                            "rawRate": 14.94516129032258,
+                            "materialRate": 14.94516129032258,
+                            "manualRate": 14.94516129032258,
+                            "creditRate": -0.008648820191158901
+                        },
+                        "charodium": {
+                            "rawRate": 69.7709677419355,
+                            "materialRate": 69.7709677419355,
+                            "manualRate": 69.7709677419355,
+                            "creditRate": -0.0403767174432497
+                        },
+                        "vokarium": {
+                            "rawRate": 14.948387096774193,
+                            "materialRate": 14.948387096774193,
+                            "manualRate": 14.948387096774193,
+                            "creditRate": -0.00865068697729988
+                        }
+                    }
+                },
+                "blue": {
+                    "timeRate": 9.515794924909372,
+                    "totalRates": {
+                        "rawRate": 10.508843537414965,
+                        "materialRate": 10.508843537414965,
+                        "manualRate": 10.508843537414965,
+                        "creditRate": -1.0060815066767448
+                    },
+                    "materialRates": {
+                        "bastium": {
+                            "rawRate": 1.5758503401360544,
+                            "materialRate": 1.5758503401360544,
+                            "manualRate": 1.5758503401360544,
+                            "creditRate": -0.0009119504283194758
+                        },
+                        "charodium": {
+                            "rawRate": 7.356802721088435,
+                            "materialRate": 7.356802721088435,
+                            "manualRate": 7.356802721088435,
+                            "creditRate": -0.0042574089821113634
+                        },
+                        "vokarium": {
+                            "rawRate": 1.5761904761904761,
+                            "materialRate": 1.5761904761904761,
+                            "manualRate": 1.5761904761904761,
+                            "creditRate": -0.0009121472663139329
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "BestItemsManual": {
+        "red": {
+            "name": "Tripod",
+            "craftTime": 20.680999999999997,
+            "materialCost": {
+                "ajatite": 517,
+                "bastium": 827.3,
+                "charodium": 723.8
+            },
+            "researchValue": {
+                "red": 17,
+                "blue": 168
+            },
+            "researchRates": {
+                "red": {
+                    "timeRate": 0.8220105410763504,
+                    "totalRates": {
+                        "rawRate": 121.65294117647059,
+                        "materialRate": 106.4470588235294,
+                        "manualRate": 77.55588235294117,
+                        "creditRate": -1.0704010076252723
+                    },
+                    "materialRates": {
+                        "ajatite": {
+                            "rawRate": 30.41176470588235,
+                            "materialRate": 15.205882352941176,
+                            "manualRate": 7.602941176470588,
+                            "creditRate": -0.017599400871459697
+                        },
+                        "bastium": {
+                            "rawRate": 48.66470588235294,
+                            "materialRate": 48.66470588235294,
+                            "manualRate": 48.66470588235294,
+                            "creditRate": -0.02816244553376906
+                        },
+                        "charodium": {
+                            "rawRate": 42.57647058823529,
+                            "materialRate": 42.57647058823529,
+                            "manualRate": 21.288235294117644,
+                            "creditRate": -0.024639161220043573
+                        }
+                    }
+                },
+                "blue": {
+                    "timeRate": 8.123398288283934,
+                    "totalRates": {
+                        "rawRate": 12.310119047619047,
+                        "materialRate": 10.77142857142857,
+                        "manualRate": 7.847916666666666,
+                        "creditRate": -1.0071239114858905
+                    },
+                    "materialRates": {
+                        "ajatite": {
+                            "rawRate": 3.0773809523809526,
+                            "materialRate": 1.5386904761904763,
+                            "manualRate": 0.7693452380952381,
+                            "creditRate": -0.0017808917548500882
+                        },
+                        "bastium": {
+                            "rawRate": 4.9244047619047615,
+                            "materialRate": 4.9244047619047615,
+                            "manualRate": 4.9244047619047615,
+                            "creditRate": -0.0028497712742504406
+                        },
+                        "charodium": {
+                            "rawRate": 4.308333333333333,
+                            "materialRate": 4.308333333333333,
+                            "manualRate": 2.1541666666666663,
+                            "creditRate": -0.0024932484567901235
+                        }
+                    }
+                }
+            }
+        },
+        "blue": {
+            "name": "Tripod",
+            "craftTime": 20.680999999999997,
+            "materialCost": {
+                "ajatite": 517,
+                "bastium": 827.3,
+                "charodium": 723.8
+            },
+            "researchValue": {
+                "red": 17,
+                "blue": 168
+            },
+            "researchRates": {
+                "red": {
+                    "timeRate": 0.8220105410763504,
+                    "totalRates": {
+                        "rawRate": 121.65294117647059,
+                        "materialRate": 106.4470588235294,
+                        "manualRate": 77.55588235294117,
+                        "creditRate": -1.0704010076252723
+                    },
+                    "materialRates": {
+                        "ajatite": {
+                            "rawRate": 30.41176470588235,
+                            "materialRate": 15.205882352941176,
+                            "manualRate": 7.602941176470588,
+                            "creditRate": -0.017599400871459697
+                        },
+                        "bastium": {
+                            "rawRate": 48.66470588235294,
+                            "materialRate": 48.66470588235294,
+                            "manualRate": 48.66470588235294,
+                            "creditRate": -0.02816244553376906
+                        },
+                        "charodium": {
+                            "rawRate": 42.57647058823529,
+                            "materialRate": 42.57647058823529,
+                            "manualRate": 21.288235294117644,
+                            "creditRate": -0.024639161220043573
+                        }
+                    }
+                },
+                "blue": {
+                    "timeRate": 8.123398288283934,
+                    "totalRates": {
+                        "rawRate": 12.310119047619047,
+                        "materialRate": 10.77142857142857,
+                        "manualRate": 7.847916666666666,
+                        "creditRate": -1.0071239114858905
+                    },
+                    "materialRates": {
+                        "ajatite": {
+                            "rawRate": 3.0773809523809526,
+                            "materialRate": 1.5386904761904763,
+                            "manualRate": 0.7693452380952381,
+                            "creditRate": -0.0017808917548500882
+                        },
+                        "bastium": {
+                            "rawRate": 4.9244047619047615,
+                            "materialRate": 4.9244047619047615,
+                            "manualRate": 4.9244047619047615,
+                            "creditRate": -0.0028497712742504406
+                        },
+                        "charodium": {
+                            "rawRate": 4.308333333333333,
+                            "materialRate": 4.308333333333333,
+                            "manualRate": 2.1541666666666663,
+                            "creditRate": -0.0024932484567901235
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "ItemData": {
+        "Assault Rifle": {
+            "name": "Assault Rifle",
+            "craftTime": 62.56,
+            "materialCost": {
+                "valkite": 312,
+                "bastium": 1565,
+                "charodium": 3128,
+                "vokarium": 1251
+            },
+            "researchValue": {
+                "red": 1,
+                "blue": 21
+            },
+            "researchRates": {
+                "red": {
+                    "timeRate": 0.0159846547314578,
+                    "totalRates": {
+                        "rawRate": 6256.0,
+                        "materialRate": 6100.0,
+                        "manualRate": 5239.5,
+                        "creditRate": -4.62037037037037
+                    },
+                    "materialRates": {
+                        "valkite": {
+                            "rawRate": 312.0,
+                            "materialRate": 156.0,
+                            "manualRate": 78.0,
+                            "creditRate": -0.18055555555555555
+                        },
+                        "bastium": {
+                            "rawRate": 1565.0,
+                            "materialRate": 1565.0,
+                            "manualRate": 782.5,
+                            "creditRate": -0.9056712962962963
+                        },
+                        "charodium": {
+                            "rawRate": 3128.0,
+                            "materialRate": 3128.0,
+                            "manualRate": 3128.0,
+                            "creditRate": -1.8101851851851851
+                        },
+                        "vokarium": {
+                            "rawRate": 1251.0,
+                            "materialRate": 1251.0,
+                            "manualRate": 1251.0,
+                            "creditRate": -0.7239583333333334
+                        }
+                    }
+                },
+                "blue": {
+                    "timeRate": 0.3356777493606138,
+                    "totalRates": {
+                        "rawRate": 297.9047619047619,
+                        "materialRate": 290.4761904761905,
+                        "manualRate": 249.5,
+                        "creditRate": -1.1723985890652557
+                    },
+                    "materialRates": {
+                        "valkite": {
+                            "rawRate": 14.857142857142858,
+                            "materialRate": 7.428571428571429,
+                            "manualRate": 3.7142857142857144,
+                            "creditRate": -0.008597883597883597
+                        },
+                        "bastium": {
+                            "rawRate": 74.52380952380952,
+                            "materialRate": 74.52380952380952,
+                            "manualRate": 37.26190476190476,
+                            "creditRate": -0.04312720458553792
+                        },
+                        "charodium": {
+                            "rawRate": 148.95238095238096,
+                            "materialRate": 148.95238095238096,
+                            "manualRate": 148.95238095238096,
+                            "creditRate": -0.08619929453262787
+                        },
+                        "vokarium": {
+                            "rawRate": 59.57142857142857,
+                            "materialRate": 59.57142857142857,
+                            "manualRate": 59.57142857142857,
+                            "creditRate": -0.03447420634920635
+                        }
+                    }
+                }
+            }
+        },
+        "Pistol": {
+            "name": "Pistol",
+            "craftTime": 9.23,
+            "materialCost": {
+                "ajatite": 73,
+                "bastium": 233,
+                "charodium": 507,
+                "vokarium": 110
+            },
+            "researchValue": {
+                "blue": 2
+            },
+            "researchRates": {
+                "blue": {
+                    "timeRate": 0.21668472372697725,
+                    "totalRates": {
+                        "rawRate": 461.5,
+                        "materialRate": 443.25,
+                        "manualRate": 294.55,
+                        "creditRate": -1.267071759259259
+                    },
+                    "materialRates": {
+                        "ajatite": {
+                            "rawRate": 36.5,
+                            "materialRate": 18.25,
+                            "manualRate": 7.300000000000001,
+                            "creditRate": -0.021122685185185185
+                        },
+                        "bastium": {
+                            "rawRate": 116.5,
+                            "materialRate": 116.5,
+                            "manualRate": 116.5,
+                            "creditRate": -0.06741898148148148
+                        },
+                        "charodium": {
+                            "rawRate": 253.5,
+                            "materialRate": 253.5,
+                            "manualRate": 126.75,
+                            "creditRate": -0.1467013888888889
+                        },
+                        "vokarium": {
+                            "rawRate": 55.0,
+                            "materialRate": 55.0,
+                            "manualRate": 44.0,
+                            "creditRate": -0.031828703703703706
+                        }
+                    }
+                }
+            }
+        },
+        "Assault Rifle Magazine": {
+            "name": "Assault Rifle Magazine",
+            "craftTime": 0.2736,
+            "materialCost": {
+                "bastium": 7.56,
+                "ice": 18.96,
+                "nhurgite": 0.84
+            },
+            "researchValue": {
+                "blue": 1
+            },
+            "researchRates": {
+                "blue": {
+                    "timeRate": 3.654970760233918,
+                    "totalRates": {
+                        "rawRate": 27.36,
+                        "materialRate": 18.3,
+                        "manualRate": 16.152,
+                        "creditRate": -1.0158333333333334
+                    },
+                    "materialRates": {
+                        "bastium": {
+                            "rawRate": 7.56,
+                            "materialRate": 7.56,
+                            "manualRate": 7.56,
+                            "creditRate": -0.0043749999999999995
+                        },
+                        "ice": {
+                            "rawRate": 18.96,
+                            "materialRate": 9.48,
+                            "manualRate": 7.5840000000000005,
+                            "creditRate": -0.010972222222222223
+                        },
+                        "nhurgite": {
+                            "rawRate": 0.84,
+                            "materialRate": 1.26,
+                            "manualRate": 1.008,
+                            "creditRate": -0.0004861111111111111
+                        }
+                    }
+                }
+            }
+        },
+        "Tripod Autocannon": {
+            "name": "Tripod Autocannon",
+            "craftTime": 30.896000000000004,
+            "materialCost": {
+                "bastium": 463.3,
+                "charodium": 2162.9,
+                "vokarium": 463.4
+            },
+            "researchValue": {
+                "red": 31,
+                "blue": 294
+            },
+            "researchRates": {
+                "red": {
+                    "timeRate": 1.003366131538063,
+                    "totalRates": {
+                        "rawRate": 99.66451612903226,
+                        "materialRate": 99.66451612903226,
+                        "manualRate": 99.66451612903226,
+                        "creditRate": -1.0576762246117086
+                    },
+                    "materialRates": {
+                        "bastium": {
+                            "rawRate": 14.94516129032258,
+                            "materialRate": 14.94516129032258,
+                            "manualRate": 14.94516129032258,
+                            "creditRate": -0.008648820191158901
+                        },
+                        "charodium": {
+                            "rawRate": 69.7709677419355,
+                            "materialRate": 69.7709677419355,
+                            "manualRate": 69.7709677419355,
+                            "creditRate": -0.0403767174432497
+                        },
+                        "vokarium": {
+                            "rawRate": 14.948387096774193,
+                            "materialRate": 14.948387096774193,
+                            "manualRate": 14.948387096774193,
+                            "creditRate": -0.00865068697729988
+                        }
+                    }
+                },
+                "blue": {
+                    "timeRate": 9.515794924909372,
+                    "totalRates": {
+                        "rawRate": 10.508843537414965,
+                        "materialRate": 10.508843537414965,
+                        "manualRate": 10.508843537414965,
+                        "creditRate": -1.0060815066767448
+                    },
+                    "materialRates": {
+                        "bastium": {
+                            "rawRate": 1.5758503401360544,
+                            "materialRate": 1.5758503401360544,
+                            "manualRate": 1.5758503401360544,
+                            "creditRate": -0.0009119504283194758
+                        },
+                        "charodium": {
+                            "rawRate": 7.356802721088435,
+                            "materialRate": 7.356802721088435,
+                            "manualRate": 7.356802721088435,
+                            "creditRate": -0.0042574089821113634
+                        },
+                        "vokarium": {
+                            "rawRate": 1.5761904761904761,
+                            "materialRate": 1.5761904761904761,
+                            "manualRate": 1.5761904761904761,
+                            "creditRate": -0.0009121472663139329
+                        }
+                    }
+                }
+            }
+        },
+        "Tripod Autocannon Magazine": {
+            "name": "Tripod Autocannon Magazine",
+            "craftTime": 11.941399999999998,
+            "materialCost": {
+                "bastium": 515.74,
+                "nhurgite": 678.4
+            },
+            "researchValue": {
+                "red": 1,
+                "blue": 75
+            },
+            "researchRates": {
+                "red": {
+                    "timeRate": 0.083742274775152,
+                    "totalRates": {
+                        "rawRate": 1194.1399999999999,
+                        "materialRate": 1533.34,
+                        "manualRate": 1533.34,
+                        "creditRate": -1.6910532407407408
+                    },
+                    "materialRates": {
+                        "bastium": {
+                            "rawRate": 515.74,
+                            "materialRate": 515.74,
+                            "manualRate": 515.74,
+                            "creditRate": -0.29846064814814816
+                        },
+                        "nhurgite": {
+                            "rawRate": 678.4,
+                            "materialRate": 1017.5999999999999,
+                            "manualRate": 1017.5999999999999,
+                            "creditRate": -0.3925925925925926
+                        }
+                    }
+                },
+                "blue": {
+                    "timeRate": 6.2806706081364005,
+                    "totalRates": {
+                        "rawRate": 15.921866666666666,
+                        "materialRate": 20.444533333333336,
+                        "manualRate": 20.444533333333336,
+                        "creditRate": -1.0092140432098766
+                    },
+                    "materialRates": {
+                        "bastium": {
+                            "rawRate": 6.876533333333334,
+                            "materialRate": 6.876533333333334,
+                            "manualRate": 6.876533333333334,
+                            "creditRate": -0.003979475308641975
+                        },
+                        "nhurgite": {
+                            "rawRate": 9.045333333333334,
+                            "materialRate": 13.568000000000001,
+                            "manualRate": 13.568000000000001,
+                            "creditRate": -0.005234567901234568
+                        }
+                    }
+                }
+            }
+        },
+        "Tripod": {
+            "name": "Tripod",
+            "craftTime": 20.680999999999997,
+            "materialCost": {
+                "ajatite": 517,
+                "bastium": 827.3,
+                "charodium": 723.8
+            },
+            "researchValue": {
+                "red": 17,
+                "blue": 168
+            },
+            "researchRates": {
+                "red": {
+                    "timeRate": 0.8220105410763504,
+                    "totalRates": {
+                        "rawRate": 121.65294117647059,
+                        "materialRate": 106.4470588235294,
+                        "manualRate": 77.55588235294117,
+                        "creditRate": -1.0704010076252723
+                    },
+                    "materialRates": {
+                        "ajatite": {
+                            "rawRate": 30.41176470588235,
+                            "materialRate": 15.205882352941176,
+                            "manualRate": 7.602941176470588,
+                            "creditRate": -0.017599400871459697
+                        },
+                        "bastium": {
+                            "rawRate": 48.66470588235294,
+                            "materialRate": 48.66470588235294,
+                            "manualRate": 48.66470588235294,
+                            "creditRate": -0.02816244553376906
+                        },
+                        "charodium": {
+                            "rawRate": 42.57647058823529,
+                            "materialRate": 42.57647058823529,
+                            "manualRate": 21.288235294117644,
+                            "creditRate": -0.024639161220043573
+                        }
+                    }
+                },
+                "blue": {
+                    "timeRate": 8.123398288283934,
+                    "totalRates": {
+                        "rawRate": 12.310119047619047,
+                        "materialRate": 10.77142857142857,
+                        "manualRate": 7.847916666666666,
+                        "creditRate": -1.0071239114858905
+                    },
+                    "materialRates": {
+                        "ajatite": {
+                            "rawRate": 3.0773809523809526,
+                            "materialRate": 1.5386904761904763,
+                            "manualRate": 0.7693452380952381,
+                            "creditRate": -0.0017808917548500882
+                        },
+                        "bastium": {
+                            "rawRate": 4.9244047619047615,
+                            "materialRate": 4.9244047619047615,
+                            "manualRate": 4.9244047619047615,
+                            "creditRate": -0.0028497712742504406
+                        },
+                        "charodium": {
+                            "rawRate": 4.308333333333333,
+                            "materialRate": 4.308333333333333,
+                            "manualRate": 2.1541666666666663,
+                            "creditRate": -0.0024932484567901235
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
